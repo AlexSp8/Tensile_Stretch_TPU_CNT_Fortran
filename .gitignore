@@ -1,2 +1,6 @@
-*.sh
+clean.sh
+kill.sh
+run.sh
+binary.sh
 data
+ConvertToBinary
